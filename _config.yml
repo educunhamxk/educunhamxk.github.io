@@ -81,7 +81,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contato
 # contact_description: This will be displayed under the title.
-contact_description: Caso tenha interesse em entrar em contato você pode utilizar os canais abaixo. <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>.
+contact_description: Caso tenha interesse em entrar em contato você pode utilizar os canais abaixo. #<a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>.
 
 # GITHUB-METADATA
 # Set this to your forked repository
