@@ -17,45 +17,72 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
-  tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
-  timeline-side: right
-
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
-  tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+- title: FIAP
+  title-url: https://fiap.com.br/
+  date: 2022 - Até o momento
+  subtitle: Graduação em Inteligência Artificial
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+- title: Itaú
+  title-url: https://www.itau.com.br/
+  date: Jul 2021 - Até o momento
+  subtitle: Analista de Dados - Gerência de Analytics
   tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+    - tag: Python
+    - tag: SQL
+    - tag: SAS
+    - tag: Alteryx
+    - tag: Excel
+    - tag: VBA
+    - tag: Power BI
+    - tag: Tableau
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+- title: Redecard 
+  title-url: https://www.userede.com.br/
+  date: Jul 2019 - Aug 2021
+  subtitle: Analista de Dados - Gerência de Metas e Apuração de Resultados
+  tags:
+    - tag: Python
+    - tag: SQL
+    - tag: SAS
+    - tag: Alteryx
+    - tag: Excel
+    - tag: VBA
+    - tag: Power BI
+    - tag: Tableau
+  timeline-side: right
+
+- title: FIA
+  title-url: https://fia.com.br/
+  date: 2018 - 2019
+  subtitle: Pós-graduação em Análise de Dados, Data Mining e Inteligência Artificial
+  timeline-side: left
+
+
+- title: Kroton
+  title-url: https://www.kroton.com.br/
+  date: Jul 2016 - Jul 2019
+  subtitle: Analista de Informações Gerenciais Sênior - MIS
+    - tag: SQL
+    - tag: SAS
+    - tag: Excel
+    - tag: VBA
+    - tag: Power BI
+  timeline-side: left
+
+- title: Accenture
+  title-url: https://www.accenture.com/br-pt
+  date: Out 2015 - Jul 2016
+  subtitle: Analista
+  tags:
+    - tag: SAP
+    - tag: Excel
+    - tag: VBA
+  timeline-side: right
+
+- title: Universidade São Judas Tadeu
+  title-url: https://landing.usjt.br/
+  date: 2011 - 2014
+  subtitle: Administraçãoo de Empresas 
   timeline-side: left
