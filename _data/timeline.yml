@@ -17,6 +17,12 @@
 #     - tag: Rails
 #   timeline-side: right
 
+- title: FIAP
+  title-url: https://fiap.com.br/
+  date: 2022 - Até o momento
+  subtitle: Graduação em Inteligência Artificial
+  timeline-side: left
+
 - title: Itaú
   title-url: https://www.itau.com.br/
   date: Jul 2021 - Até o momento
@@ -45,17 +51,23 @@
     - tag: VBA
     - tag: Power BI
     - tag: Tableau
+  timeline-side: left
+
+- title: FIA
+  title-url: https://fia.com.br/
+  date: 2018 - 2019
+  subtitle: Pós-graduação em Análise de Dados, Data Mining e Inteligência Artificial
   timeline-side: right
 
 - title: Kroton
   title-url: https://www.kroton.com.br/
   date: Jul 2016 - Jul 2019
   subtitle: Analista de Informações Gerenciais Sênior - MIS
+  tags: 
     - tag: SQL
     - tag: SAS
     - tag: Excel
     - tag: VBA
-    - tag: Power BI
   timeline-side: left
 
 - title: Accenture
@@ -71,5 +83,5 @@
 - title: Universidade São Judas Tadeu
   title-url: https://landing.usjt.br/
   date: 2011 - 2014
-  subtitle: Administraçãoo de Empresas
+  subtitle: Administraçãoo de Empresas 
   timeline-side: left
