@@ -14,7 +14,7 @@ baseurl: "/"
 username: Eduardo Cunha
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Data Scientist and Data Analyst
+typing_text: Cientista de Dados e Analista de Dados
 # email: Your E-Mail address for the email button.
 email: eduardo_cunha@live.com
 # For every social button you want to display, set your username or userid
@@ -32,9 +32,9 @@ twitter_username: exampleUser
 # > setting this to false, will omit the About Me section
 show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
-about_me_title: About Me
+about_me_title: Sobre mim
 # about_me_description: This will be displayed under the title.
-about_me_description: Data analyst passionate about answering questions through them and thinking about business success through creating reports and Machine Learning models. My last major projects were aimed at finding ways to improve the performance of commercial time through data at Redecard, an Itaú group company, and more recently at Itaú itself. <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>. You can also find me on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="https://jekyll-themes.com/neumorphism/" target="_blank" rel="noreferrer">Jekyll Themes</a>.
+about_me_description: Cientista e analista de dados apaixonado por responder perguntas através deles e impulsionar o sucesso dos negócios através da criação de relatórios e modelos de Machine Learning. Os meus últimos grandes projetos foram voltados para encontrar meios para melhorar a performance do time comercial através de dados na Redecard, empresa do grupo Itaú, e mais recentemente no próprio Itaú. #<a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>. You can also find me on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="https://jekyll-themes.com/neumorphism/" target="_blank" rel="noreferrer">Jekyll Themes</a>.
 
 # SKILLS SECTION
 # show_skills_card:
@@ -50,10 +50,10 @@ skills_title: Skills
 # > setting this to false, will omit the Timeline section
 show_timeline_card: true
 # timeline_title: The will be displayed as the title in the Timeline section
-timeline_title: Education & Experience
+timeline_title: Formação, experiência e premiações
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://example.com/
+cv_download_link: https://github.com/educunhamxk/portfolio/blob/main/CV%20Eduardo%20Cunha.pdf
 
 # PROJECTS SECTION
 # show_projects_card:
