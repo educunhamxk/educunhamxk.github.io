@@ -35,7 +35,7 @@ show_aboutme_card: true
 about_me_title: Sobre mim
 # about_me_description: This will be displayed under the title.
 about_me_description: Cientista e analista de dados apaixonado por responder perguntas através deles e impulsionar o sucesso dos negócios através de análises e modelos de Machine Learning. Os meus últimos grandes projetos foram voltados para encontrar meios para melhorar a performance do time comercial através de dados na Redecard, empresa do grupo Itaú, e mais recentemente no próprio Itaú. #<a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>. You can also find me on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="https://jekyll-themes.com/neumorphism/" target="_blank" rel="noreferrer">Jekyll Themes</a>.
-profile_image: /assets/images/fotoperfil.jpg
+profile_image: /assets/img/fotoperfil.jpg
 # SKILLS SECTION
 # show_skills_card:
 # > setting this to true, will display the Skills section
