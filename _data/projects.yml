@@ -13,10 +13,8 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: Priorização de retornos de NPS utilizando NLP e análise de sentimentos - Empresa BASF
-  descr: "Este projeto ganhou o 1º lugar no desafio da empresa BASF para o curso de inteligência artificial da FIAP. O desafio era melhorar de alguma forma processos que envolvam o NPS da empresa utilizando IA. 
-  
-  Nas conversas iniciais a respeito do projeto foi possível observar que a nota de NPS nem sempre reflete a real percepção dos clientes sobre a empresa, muitas vezes há distorção entre a nota e o comentário enviado pelo cliente. Sabendo disso, o projeto teve como objetivo evidenciar os assuntos que mais estavam incomodando os clientes, mesmo que estivessem mascarados por notas altas, e priorizá-los com base na criticidade envolvida na análise de sentimento das mensagens dos clientes e também através de um conceito desenvolvido no projeto que é priorizar clientes que estão beirando as faixas superiores e inferiores de NPS, estes apresentam mais potencial de alavancar a nota com menos esforço."
+- name: Priorização de retornos de NPS utilizando NLP e análise de sentimento - Empresa BASF
+  descr: "Este projeto ganhou o 1º lugar no desafio da empresa BASF para o curso de inteligência artificial da FIAP. O desafio era melhorar de alguma forma processos que envolvam o NPS da empresa utilizando IA. \n\ Nas conversas iniciais a respeito do projeto foi possível observar que a nota de NPS nem sempre reflete a real percepção dos clientes sobre a empresa, muitas vezes há distorção entre a nota e o comentário enviado pelo cliente. \n\  Sabendo disso, o projeto teve como objetivo evidenciar os assuntos que mais estavam incomodando os clientes, mesmo que estivessem mascarados por notas altas, e priorizá-los com base na criticidade envolvida na análise de sentimento das mensagens dos clientes e também através de um conceito desenvolvido no projeto que seria a priorização de clientes que estão beirando as faixas superiores e inferiores de NPS, estes clientes apresentam mais potencial de alavancar a nota com menos esforço."
   #demo: https://example.com/
   tags:
     - tag: Python
@@ -25,9 +23,9 @@
     - tag: Excel
     - tag: VBA
 
-- name: project Y
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: Identificação de colaboradores com mais oportunidades utilizando regressão linear e conceitos de negócios - Itaú
+  descr: "Os colaboradores do time comercial são plotados mensalmente em quadrantes de acordo com o atingimento de metas. O problema é que a atuação dos gestores destes colaboradores não é padronizada, alguns atuam nos que estão nos piores quadrantes, outros atuam "
+  #demo: https://example.com/
   tags:
     - tag: Python
     - tag: Django
