@@ -1,4 +1,4 @@
-{{ projeto.descr | newline_to_br }}
+
 {% if site.show_projects %}
   <h1 class="title"><span>{{site.projects_title}}</span></h1>
   <div class="projects-wrapper">
@@ -7,7 +7,8 @@
         <div class="name-link-wrapper">
           <h3>{{project.name}}</h3>
         </div>
-        <p class="project-desc">{{project.descr}}</p>
+        <p class="project-desc">{{project.descr | newline_to_br }}</p>
+        <!-- <p class="project-desc">{{project.descr}}</p> -->
         {% if project.demo %}
           <a class="highlight-link" href="{{project.demo}}" target="_blank" rel="noreferrer">
             Demo
