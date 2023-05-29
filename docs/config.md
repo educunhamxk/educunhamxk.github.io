@@ -62,7 +62,7 @@
   * setting this to **true**, will display your listed projects in _data/projects.yml
   * setting this to **false**, will omit your listed projects
 * `projects_title`: The will be displayed as the title of your projects
-* `show_os_projects`:
+* `show_os_projects`: 
   * setting this to **true**, will display your public projects on github
   * setting this to **false**, will omit your public projects on github
 * `os_projects_title`: The will be displayed as the title of your open source projects
