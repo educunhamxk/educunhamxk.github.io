@@ -57,7 +57,7 @@
     - tag: SAS
     - tag: Excel
     - tag: VBA
-  timeline-side: left
+  timeline-side: right
 
 - title: Accenture
   title-url: https://www.accenture.com/br-pt
@@ -67,5 +67,5 @@
     - tag: SAP
     - tag: Excel
     - tag: VBA
-  timeline-side: right
+  timeline-side: left
 

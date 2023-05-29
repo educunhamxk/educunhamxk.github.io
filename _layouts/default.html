@@ -44,7 +44,9 @@
     {% endif %}
     {%if site.show_timeline_card %}
       <section class="card neumorphism-card-big">
+        {% include section-formacao.html %}
         {% include section-timeline.html %}
+        {% include section-premiacao.html %}
       </section>
     {% endif %}
     {%if site.show_projects_card %}
