@@ -1,0 +1,37 @@
+# > title: Name of your timeline entry, university or work place
+# > title-url: Link to your timeline entry, university or work place
+# > date: Time span
+# > subtitle: The description under the title
+# > tags: List of tags you want to associate with the entry
+# > timeline-side: The side on which you want to display the entry: left or right
+
+# Example of a timeline entry
+# - title: airbnb
+#   title-url: https://example.com/
+#   date: Sep 2019 - Present
+#   subtitle: Fullstack Developer
+#   tags:
+#     - tag: React
+#     - tag: Javascript
+#     - tag: Ruby
+#     - tag: Rails
+#   timeline-side: right
+
+- title: FIAP
+  title-url: https://fiap.com.br/
+  date: 2022 - Cursando
+  subtitle: Graduação em Inteligência Artificial
+  timeline-side: left
+
+- title: FIA
+  title-url: https://fia.com.br/
+  date: 2018 - 2019
+  subtitle: Pós-graduação em Análise de Dados, Data Mining e Inteligência Artificial
+  timeline-side: right
+
+
+- title: Universidade São Judas Tadeu
+  title-url: https://landing.usjt.br/
+  date: 2011 - 2014
+  subtitle: Administraçãoo de Empresas 
+  timeline-side: left
