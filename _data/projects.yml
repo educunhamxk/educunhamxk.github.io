@@ -24,7 +24,7 @@
     - tag: VBA
 
 - name: Identificação de colaboradores com mais oportunidades utilizando regressão linear e conceitos de negócios - Itaú
-  descr: "Os colaboradores do time comercial são plotados mensalmente em quadrantes de acordo com o atingimento de metas. O problema é que a atuação dos gestores destes colaboradores não é padronizada, alguns atuam nos que estão nos piores quadrantes, outros atuam "
+  descr: "Os colaboradores do time comercial são plotados mensalmente em quadrantes de acordo com o atingimento de metas de atendimentos e de vendas. O problema é que a atuação dos gestores destes colaboradores não é padronizada, a maioria atua nos colaboradores que estão nos piores quadrantes, e isso nem sempre é eficiente quando o objetivo é atingir a meta do mês. Isso porque estes colaboradores são os que ficaram mais para trás ao longo do mês e dificilmente vão conseguir reveter o resultado no curto prazo. \n\ \n\ O projeto que está em desenvolvimento, visa projetar em qual ponto exato do quadrante o colaborador provavelmente irá ficar com base em modelos de regressão linear e utilizando os dados históricos, e a partir disso identificar o público que mais tem potencial de influenciar o resultado no próprio mês, ou seja, os que estam beirando o melhor quadrante. "
   #demo: https://example.com/
   tags:
     - tag: Python
