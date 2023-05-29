@@ -27,8 +27,12 @@
   descr: "Os colaboradores do time comercial são plotados mensalmente em quadrantes de acordo com o atingimento de metas de atendimentos e de vendas. O problema é que a atuação dos gestores destes colaboradores não é padronizada, a maioria atua nos colaboradores que estão nos piores quadrantes, e isso nem sempre é eficiente quando o objetivo é atingir a meta do mês. Isso porque estes colaboradores são os que ficaram mais para trás ao longo do mês e dificilmente vão conseguir reveter o resultado no curto prazo. \n\ \n\ O projeto que está em desenvolvimento, visa projetar em qual ponto exato do quadrante o colaborador provavelmente irá ficar com base em modelos de regressão linear e utilizando os dados históricos, e a partir disso identificar o público que mais tem potencial de influenciar o resultado no próprio mês, ou seja, os que estam beirando o melhor quadrante. "
   #demo: https://example.com/
   tags:
+    - tag: Power BI
     - tag: Python
-    - tag: Django
+    - tag: Regressão Linear
+    - tag: SAS
+    - tag: Excel
+    - tag: VBA
 
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
+- name: Identificação dos clientes com maior potencial - Redecard
+  descr: "Era muito comum na equipe de vendas os colaboradores chegarem próximo ao final do mês procurando qual cliente de sua carteira teria potencial de ajudar a atingir o pouco que falta da meta do mês.  \n\ \n\ Identifiquei essa oportunidade e desenvolvi o relatório Meu AGIR de Oportunidades. É feita uma análise automatizada dos indicadores, metas e realizado de cada colaborador, e em seguida, a carteira de clientes do colaborador é verificada para identificar quais clientes que mais teriam potencial de agregar a meta com menos esforço do colaborador, este público é ordenado e enviado por e-mail para o time comercial."
