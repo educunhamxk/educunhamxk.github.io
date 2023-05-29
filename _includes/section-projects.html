@@ -51,8 +51,8 @@
           <div class="project neumorphism-card" data-aos="zoom-in-down">
             <div class="name-link-wrapper">
               <!-- a linha abaixo -->
-              <img src="{{ site.baseurl }}{{ site.data.project_descriptions[repository.name].image }}" alt="{{ repository.name }} image" class="project-img">
-              <h3>{{ repository.name }}</h3>
+              <img src="{{ site.baseurl }}{{ site.data.project_descriptions[repository.name].image }}" alt="{{ repository.name }} image" class="project-img" style="width: 100px; height: 100px;">
+              <!-- <h3>{{ repository.name }}</h3> -->
               <div class="links">
                 {% if repository.stargazers_count != 0 %}
                   <a href="{{ repository.html_url }}/stargazers" class="project-stars-forks">
