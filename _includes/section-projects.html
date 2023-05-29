@@ -44,12 +44,14 @@
     {% assign filtered_repos = site.github.public_repositories | sort: sort_order | reverse %}
   {% endif %}
 
-  <!-- <div class="projects-wrapper">
+  <div class="projects-wrapper">
     {% for repository in filtered_repos %}
       {% if site.featured_repositories contains repository.name %}
         {% unless site.projects.exclude.projects contains repository.name %}
           <div class="project neumorphism-card" data-aos="zoom-in-down">
             <div class="name-link-wrapper">
+              <!-- a linha abaixo -->
+              <img src="/img/{{ site.data.project_descriptions[repository.name].image }}" alt="{{ repository.name }} image" class="project-img">
               <h3>{{ repository.name }}</h3>
               <div class="links">
                 {% if repository.stargazers_count != 0 %}
@@ -92,8 +94,8 @@
       {% endif %}
     {% endfor %}
   </div>
-{% endif %} -->
-  <div class="projects-wrapper">
+{% endif %}
+  <!-- <div class="projects-wrapper">
     {% for repository in filtered_repos %}
       {% if site.featured_repositories contains repository.name %}
         {% unless site.projects.exclude.projects contains repository.name %}
@@ -142,5 +144,5 @@
       {% endif %}
     {% endfor %}
   </div>
-  {% endif %}
+  {% endif %} -->
 
