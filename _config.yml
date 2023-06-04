@@ -76,6 +76,7 @@ show_os_projects: true
 os_projects_title: Projetos Abertos
 featured_repositories:
   - ChicoXavier
+  - Queimadas
 # CONTACT SECTION
 # show_contact_card:
 # > setting this to true, will display the Contact section
