@@ -1,5 +1,20 @@
 ChicoXavier:
   image: /assets/img/chico.JPG
+  streamlit: 
+  tags:
+    - NLP
+    - Clusterização
+    - Similaridade de Cosseno
+    - TF-IDF
+
  
 queimadas:
   image: /assets/img/lula_queimada2.JPG
+  streamlit: https://educunhamxk-queimadas-app-smywkd.streamlit.app/
+  tags:
+    - Análise
+    - Storytelling
+    - Pycaret
+    - AutoML
+    - Deploy
+    - Streamlit
