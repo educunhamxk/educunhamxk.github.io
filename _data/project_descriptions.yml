@@ -11,6 +11,7 @@ ChicoXavier:
 queimadas:
   image: /assets/img/lula_queimada2.JPG
   streamlit: https://educunhamxk-queimadas-app-smywkd.streamlit.app/
+  github: 'https://github.com/educunhamxk/queimadas/blob/main/Queimadas.ipynb'
   tags:
     - Análise
     - Storytelling
