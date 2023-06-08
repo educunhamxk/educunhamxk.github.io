@@ -50,13 +50,17 @@
       {% if site.featured_repositories contains repository.name %}
         {% unless site.projects.exclude.projects contains repository.name %}
           <div class="project neumorphism-card" data-aos="zoom-in-down">
-            <div class="name-link-wrapper">
-              <img src="{{ site.baseurl }}{{ site.data.project_descriptions[repository.name].image }}" alt="{{ repository.name }} image" class="project-img" style="width: 500px; height: 500px;">
-              <div class="links">
-                <!-- código existente removido para facilitar a leitura -->
-                <a class="highlight-link" href="{{ site.data.project_descriptions[repository.name].streamlit }}" target="_blank" rel="noreferrer">
-                  Dashboard no Streamlit
-                </a>
+            <div class="project-content">
+              <div class="project-image">
+                <img src="{{ site.baseurl }}{{ site.data.project_descriptions[repository.name].image }}" alt="{{ repository.name }} image" class="project-img" style="width: 500px; height: 500px;">
+              </div>
+              <div class="name-link-wrapper">
+                <div class="links">
+                  <!-- código existente removido para facilitar a leitura -->
+                  <a class="highlight-link" href="{{ site.data.project_descriptions[repository.name].streamlit }}" target="_blank" rel="noreferrer">
+                    Dashboard no Streamlit
+                  </a>
+                </div>
               </div>
             </div>
             <p class="project-desc">{{repository.description}}</p>
@@ -74,6 +78,5 @@
     {% endfor %}
   </div>
 {% endif %}
-
 
 
