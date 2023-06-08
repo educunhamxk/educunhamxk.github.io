@@ -1,6 +1,7 @@
 ChicoXavier:
   image: /assets/img/chico.JPG
-  streamlit: 
+  streamlit: https://educunhamxk-chicoxavier-app-07zocg.streamlit.app/
+  github: 'https://github.com/educunhamxk/ChicoXavier/blob/main/ChicoXavier_SimilaridadeDeCosseno.ipynb'
   tags:
     - NLP
     - Clusterização
