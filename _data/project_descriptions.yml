@@ -20,3 +20,13 @@ queimadas:
     - AutoML
     - Deploy
     - Streamlit
+
+uber:
+  image: /assets/img/uber3.JPG
+  #streamlit: https://educunhamxk-queimadas-app-smywkd.streamlit.app/
+  github: 'https://github.com/educunhamxk/uber/blob/main/Uber.ipynb'
+  tags:
+    - Análise
+    - Storytelling
+    - Pycaret
+    - AutoML
