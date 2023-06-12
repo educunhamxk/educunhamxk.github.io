@@ -77,9 +77,10 @@ show_os_projects: true
 # os_projects_title: The will be displayed as the title of your open source projects
 os_projects_title: Projetos Abertos
 featured_repositories:
-  - uber
-  - queimadas
   - ChicoXavier
+  - queimadas
+  - uber
+  
 # CONTACT SECTION
 # show_contact_card:
 # > setting this to true, will display the Contact section
