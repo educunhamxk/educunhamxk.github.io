@@ -21,14 +21,13 @@
 - title: Itaú | Jul 2021 - Até o momento
   title-url: https://www.itau.com.br/
   date: Analista de Dados - Gerência de Analytics 
-  subtitle: Realização de estudos, criação de relatórios e indicadores para o time comercial, com o objetivo de identificar oportunidades através dos dados. 
+  subtitle: Responsável pela realização de estudos, criação de relatórios e indicadores para o time comercial, com o objetivo de identificar oportunidades através dos dados. 
   tags:
     - tag: Python
     - tag: Pandas
     - tag: Scikit-Learn
     - tag: Matplotlib
     - tag: Numpy
-    - tag: Matplotlib
     - tag: SQL
     - tag: SAS
     - tag: Alteryx
@@ -48,7 +47,6 @@
     - tag: Scikit-Learn
     - tag: Matplotlib
     - tag: Numpy
-    - tag: Matplotlib
     - tag: SQL
     - tag: SAS
     - tag: Alteryx
