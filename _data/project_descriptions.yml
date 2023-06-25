@@ -33,9 +33,9 @@ uber:
 
 mc:
   image: /assets/img/mc.JPG
-  #streamlit: https://educunhamxk-queimadas-app-smywkd.streamlit.app/
+  streamlit: https://eduardo-cunha-mc.streamlit.app/
   github: 'https://github.com/educunhamxk/mc/blob/main/bicmac.ipynb'
-  tags:
+  tags: 
     - Análise
     - Regressão Linear
     - Random Forest
