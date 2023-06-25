@@ -33,6 +33,6 @@
     - tag: SAS
     - tag: Excel
     - tag: VBA
-
+ 
 - name: Identificação dos clientes com maior potencial - Redecard
   descr: "Era muito comum na equipe de vendas os colaboradores chegarem próximo ao final do mês procurando qual cliente de sua carteira teria potencial de ajudar a atingir o pouco que falta da meta do mês.  \n\ \n\ Identifiquei essa oportunidade e desenvolvi proativamente o relatório Meu AGIR de Oportunidades. O relatório funciona da seguinte forma, primeiro é feita uma análise automatizada dos indicadores, metas e produção de cada colaborador, e em seguida é verificada a carteira de clientes do colaborador, para identificar quais clientes teriam mais potencial de contribuir com a meta com menos esforço do colaborador. Este público é ordenado e enviado por e-mail para o time comercial. \n\ \n\ O relatório foi desenvolvido há alguns anos e até hoje é disparado."
