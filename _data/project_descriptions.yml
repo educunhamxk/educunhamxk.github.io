@@ -31,7 +31,7 @@ uber:
     - Pycaret
     - AutoML
 
-Mc:
+mc:
   image: /assets/img/mc.JPG
   #streamlit: https://educunhamxk-queimadas-app-smywkd.streamlit.app/
   github: 'https://github.com/educunhamxk/mc/blob/main/bicmac.ipynb'

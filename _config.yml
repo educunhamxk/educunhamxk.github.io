@@ -77,10 +77,10 @@ show_os_projects: true
 # os_projects_title: The will be displayed as the title of your open source projects
 os_projects_title: Projetos Abertos
 featured_repositories:
-  - ChicoXavier
-  - queimadas
-  - mc
   - uber
+  - mc
+  - queimadas
+  - ChicoXavier
   
   
  
