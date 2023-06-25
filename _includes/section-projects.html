@@ -29,12 +29,12 @@
 
 {% if site.show_os_projects %}
   <h1 class="title">{{site.os_projects_title}}</h1>
-  {% assign sorted_projects = site.projects | sort: 'name' %}
-  <!-- {% if site.projects.sort_by == 'stars' %}
+  <!-- {% assign sorted_projects = site.projects | sort: 'name' %} -->
+  {% if site.projects.sort_by == 'stars' %}
     {% assign sort_order = 'stargazers_count', 'last' %}
   {% else %}
     {% assign sort_order = 'pushed_at' %}
-  {% endif %} -->
+  {% endif %}
   
   {% if site.projects.exclude.archived && site.projects.exclude.forks %}
     {% assign filtered_repos = site.github.public_repositories | where:'archived', false | where:'fork', false | sort: sort_order | reverse %}
