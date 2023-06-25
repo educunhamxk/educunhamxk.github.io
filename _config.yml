@@ -77,9 +77,12 @@ show_os_projects: true
 # os_projects_title: The will be displayed as the title of your open source projects
 os_projects_title: Projetos Abertos
 featured_repositories:
-  - uber
-  - queimadas
   - ChicoXavier
+  - queimadas
+  - mc
+  - uber
+  
+  
  
 
   
@@ -89,7 +92,7 @@ featured_repositories:
 # > setting this to false, will omit the Contact section
 show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
-contact_title: Contato
+contact_title: Contato 
 # contact_description: This will be displayed under the title.
 contact_description: Caso tenha interesse em entrar em contato você pode utilizar os canais abaixo. #<a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>.
 

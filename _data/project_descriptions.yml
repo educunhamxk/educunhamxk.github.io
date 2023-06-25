@@ -30,3 +30,14 @@ uber:
     - Storytelling
     - Pycaret
     - AutoML
+
+Mc:
+  image: /assets/img/mc.JPG
+  #streamlit: https://educunhamxk-queimadas-app-smywkd.streamlit.app/
+  github: 'https://github.com/educunhamxk/mc/blob/main/bicmac.ipynb'
+  tags:
+    - Análise
+    - Regressão Linear
+    - Random Forest
+    - Deploy
+    - Streamlit
